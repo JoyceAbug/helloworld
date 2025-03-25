@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 For merge
 For pull
+For branch push to github
